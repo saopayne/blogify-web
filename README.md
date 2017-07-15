@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Buffalo!
 
 Thank you for choosing Buffalo for your web development needs.
@@ -35,3 +36,7 @@ We recommend you heading over to [http://gobuffalo.io](http://gobuffalo.io) and 
 Good luck!
 
 [Powered by Buffalo](http://gobuffalo.io)
+=======
+# blogify-web
+This is the web and interactive part of the blog classifier.
+>>>>>>> a6cb2f098537b27cf809f2096e08072443a8adcf
